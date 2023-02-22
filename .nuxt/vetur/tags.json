@@ -1,0 +1,29 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "AboutUs": {
+    "description": "Auto imported from components/AboutUs/AboutUs.vue"
+  },
+  "CommonFooter": {
+    "description": "Auto imported from components/Common/Footer.vue"
+  },
+  "CommonHeader": {
+    "description": "Auto imported from components/Common/Header.vue"
+  },
+  "HomeAbout": {
+    "description": "Auto imported from components/Home/About.vue"
+  },
+  "Home": {
+    "description": "Auto imported from components/Home/Home.vue"
+  },
+  "HomeRose": {
+    "description": "Auto imported from components/Home/Rose.vue"
+  },
+  "LoaderVPlaceload": {
+    "description": "Auto imported from components/Loader/VPlaceload.vue"
+  }
+}

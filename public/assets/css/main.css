@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Ubuntu;
+}
+:root {
+  --animate-duration: 2s;
+  --animate-delay: 2s;
+}
+/* Start adding fonts */
+@font-face {
+  font-family: Ubuntu;
+  src: url("../fonts/Tajawal/Tajawal-Black.ttf");
+}
+@font-face {
+  font-family: UbuntuLight;
+  src: url("../fonts/Tajawal/Tajawal-Light.ttf");
+}
+@font-face {
+  font-family: UbuntuMedium;
+  src: url("../fonts/Tajawal/Tajawal-Medium.ttf");
+}
+@font-face {
+  font-family: UbuntuBold;
+  src: url("../fonts/Tajawal/Tajawal-Bold.ttf");
+}
+/* End adding fonts */

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "aboutus",
+    "path": "/aboutus",
+    "component": "C:\\\\Users\\\\Planning 2022\\\\Desktop\\\\tig\\\\pages\\\\aboutus.vue",
+    "chunkName": "pages/aboutus"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Planning 2022\\\\Desktop\\\\tig\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
