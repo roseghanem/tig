@@ -17,5 +17,5 @@ export default{
     name:"About",
 }
 </script>
-<style src="../../public/assets/scss/about.scss" scoped lang="scss">
+<style src="" scoped lang="scss">
 </style>

@@ -3,12 +3,28 @@
     "name": "aboutus",
     "path": "/aboutus",
     "component": "C:\\\\Users\\\\Planning 2022\\\\Desktop\\\\tig\\\\pages\\\\aboutus.vue",
-    "chunkName": "pages/aboutus"
+    "chunkName": "pages/aboutus",
+    "_name": "_5f79cf8a"
+  },
+  {
+    "name": "ourservice1",
+    "path": "/ourservice1",
+    "component": "C:\\\\Users\\\\Planning 2022\\\\Desktop\\\\tig\\\\pages\\\\ourservice1.vue",
+    "chunkName": "pages/ourservice1",
+    "_name": "_7bd03390"
+  },
+  {
+    "name": "ourservice2",
+    "path": "/ourservice2",
+    "component": "C:\\\\Users\\\\Planning 2022\\\\Desktop\\\\tig\\\\pages\\\\ourservice2.vue",
+    "chunkName": "pages/ourservice2",
+    "_name": "_7bb4048e"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Planning 2022\\\\Desktop\\\\tig\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_fc51bebc"
   }
 ]

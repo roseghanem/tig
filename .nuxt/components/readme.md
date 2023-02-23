@@ -15,3 +15,5 @@ You can directly use them in pages and other components without the need to impo
 - `<Home>` | `<home>` (components/Home/Home.vue)
 - `<HomeRose>` | `<home-rose>` (components/Home/Rose.vue)
 - `<LoaderVPlaceload>` | `<loader-v-placeload>` (components/Loader/VPlaceload.vue)
+- `<Ourservice1>` | `<ourservice1>` (components/Ourservice1/Ourservice1.vue)
+- `<Ourservice2>` | `<ourservice2>` (components/Ourservice2/Ourservice2.vue)

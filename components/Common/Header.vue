@@ -31,8 +31,8 @@
           <li><NuxtLink class="nav-link scrollto" to="/aboutus">About Us</NuxtLink></li>
           <li class="dropdown"><a href="#"><span>Our Services</span><i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><nuxt-link to="/">Drop Down 1</nuxt-link></li>
-              <li><a href="/aboutus">Drop Down 2</a></li>
+              <li><nuxt-link to="/ourservice1">ourservice1</nuxt-link></li>
+              <li><nuxt-link to="/ourservice2">ourservice2</nuxt-link></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="index.html#portfolio">Our Projects</a></li>

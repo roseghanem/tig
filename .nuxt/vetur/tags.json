@@ -25,5 +25,11 @@
   },
   "LoaderVPlaceload": {
     "description": "Auto imported from components/Loader/VPlaceload.vue"
+  },
+  "Ourservice1": {
+    "description": "Auto imported from components/Ourservice1/Ourservice1.vue"
+  },
+  "Ourservice2": {
+    "description": "Auto imported from components/Ourservice2/Ourservice2.vue"
   }
 }

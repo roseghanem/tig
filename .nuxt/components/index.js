@@ -7,6 +7,8 @@ export { default as HomeAbout } from '../..\\components\\Home\\About.vue'
 export { default as Home } from '../..\\components\\Home\\Home.vue'
 export { default as HomeRose } from '../..\\components\\Home\\Rose.vue'
 export { default as LoaderVPlaceload } from '../..\\components\\Loader\\VPlaceload.vue'
+export { default as Ourservice1 } from '../..\\components\\Ourservice1\\Ourservice1.vue'
+export { default as Ourservice2 } from '../..\\components\\Ourservice2\\Ourservice2.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
